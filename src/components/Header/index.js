@@ -11,7 +11,7 @@ function Header({ cartSize }) {
   return (
     <Container>
       <Link to="/">
-        <img src={logo} alt="Rocketshoes" />
+        <img src={logo} alt="Rocketshoes, um site para compras" />
       </Link>
 
       <Cart to="/cart">
